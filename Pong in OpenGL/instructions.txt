@@ -1,0 +1,19 @@
+How to run Pong
+
+Keys to Use
+
+"Esc" 	- exit app
+
+"`" 	- reset the game
+" "	- pause the game
+"w"	- move up
+"s"	- move down
+
+How it Works
+
+You control left side
+right moves on its own
+Score is kept at bottom
+5 pts to win
+
+fast paced, reset to go again
