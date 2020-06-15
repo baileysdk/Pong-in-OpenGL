@@ -16,5 +16,4 @@ of my code quality and formatting :
   - Pong.h/cpp
   - Paddle.h/cpp
   - Ball.h/cpp
-  - TexRect.h/cpp *
- * adapted from a prior assignment in the class
+  - TexRect.h/cpp (adapted from a prior assignment in the class)
